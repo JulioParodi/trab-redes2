@@ -1,0 +1,131 @@
+### Programa sem modificaçoes ######
+
+Tamanho janela = 50
+
+    Average capacity: 5.04 Mbits/s
+    Average throughput: 4.74 Mbits/s (94.0% utilization)
+    95th percentile per-packet queueing delay: 238 ms
+    95th percentile signal delay: 607 ms
+    throughput / delay -:  7.808896
+
+    Average capacity: 5.04 Mbits/s
+    Average throughput: 4.75 Mbits/s (94.1% utilization)
+    95th percentile per-packet queueing delay: 238 ms
+    95th percentile signal delay: 609 ms
+    throughput / delay -:  7.793200
+
+    Average capacity: 5.04 Mbits/s
+    Average throughput: 4.74 Mbits/s (94.1% utilization)
+    95th percentile per-packet queueing delay: 238 ms
+    95th percentile signal delay: 607 ms
+    throughput / delay -:  7.815196
+
+Tamanho janela = 45
+    
+    Average capacity: 5.04 Mbits/s
+    Average throughput: 4.52 Mbits/s (89.7% utilization)
+    95th percentile per-packet queueing delay: 215 ms
+    95th percentile signal delay: 557 ms
+    throughput / delay -:  8.119119
+
+    Average capacity: 5.04 Mbits/s
+    Average throughput: 4.58 Mbits/s (90.9% utilization)
+    95th percentile per-packet queueing delay: 215 ms
+    95th percentile signal delay: 556 ms
+    throughput / delay -:  8.240223
+
+
+Tamanho janela = 40
+
+    Average capacity: 5.04 Mbits/s
+    Average throughput: 4.41 Mbits/s (87.6% utilization)
+    95th percentile per-packet queueing delay: 192 ms
+    95th percentile signal delay: 504 ms
+    throughput / delay -:  8.757484
+
+Tamanho janela = 35
+    
+    Average capacity: 5.04 Mbits/s
+    Average throughput: 4.24 Mbits/s (84.1% utilization)
+    95th percentile per-packet queueing delay: 167 ms
+    95th percentile signal delay: 451 ms
+    throughput / delay -:  9.400730
+
+Tamanho janela = 30
+
+    Average capacity: 5.04 Mbits/s
+    Average throughput: 4.01 Mbits/s (79.6% utilization)
+    95th percentile per-packet queueing delay: 143 ms
+    95th percentile signal delay: 400 ms
+    throughput / delay -:  10.026829
+
+Tamanho janela = 25
+
+    Average capacity: 5.04 Mbits/s
+    Average throughput: 3.68 Mbits/s (73.0% utilization)
+    95th percentile per-packet queueing delay: 118 ms
+    95th percentile signal delay: 343 ms
+    throughput / delay -:  10.730935
+
+
+Tamanho janela = 20
+
+    Average capacity: 5.04 Mbits/s
+    Average throughput: 3.22 Mbits/s (63.9% utilization)
+    95th percentile per-packet queueing delay: 96 ms
+    95th percentile signal delay: 276 ms
+    throughput / delay -:  11.666874
+
+
+Tamanho janela = 15
+
+    Average capacity: 5.04 Mbits/s
+    Average throughput: 2.62 Mbits/s (52.0% utilization)
+    95th percentile per-packet queueing delay: 76 ms
+    95th percentile signal delay: 213 ms
+    throughput / delay -:  12.305331
+
+
+Tamanho janela = 10
+
+    Average capacity: 5.04 Mbits/s
+    Average throughput: 1.93 Mbits/s (38.3% utilization)
+    95th percentile per-packet queueing delay: 56 ms
+    95th percentile signal delay: 155 ms
+    throughput / delay -:  12.451967
+
+
+Tamanho janela = 5
+
+    Average capacity: 5.04 Mbits/s
+    Average throughput: 1.05 Mbits/s (20.7% utilization)
+    95th percentile per-packet queueing delay: 32 ms
+    95th percentile signal delay: 111 ms
+    throughput / delay -:  9.418424
+
+
+Tamanho janela = 1
+    
+    Average capacity: 5.04 Mbits/s
+    Average throughput: 0.22 Mbits/s (4.4% utilization)
+    95th percentile per-packet queueing delay: 19 ms
+    95th percentile signal delay: 110 ms
+    throughput / delay -:  2.012954
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
